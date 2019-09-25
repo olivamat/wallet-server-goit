@@ -1,0 +1,100 @@
+[
+  {
+    "id": 19112831,
+    "name": "Пицца Пепперони с томатами",
+    "description": "",
+    "price": "100",
+    "currency": "UAN",
+    "created": "21-07-2019",
+    "modified": "23-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112832,
+    "name": "Суши",
+    "description": "",
+    "price": "80",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112833,
+    "name": "Сок",
+    "description": "",
+    "price": "40",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112834,
+    "name": "Пепси-Кола",
+    "description": "",
+    "price": "60",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112836,
+    "name": "Суп",
+    "description": "",
+    "price": "100",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112837,
+    "name": "Бургер",
+    "description": "",
+    "price": "90",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112838,
+    "name": "Вареники",
+    "description": "",
+    "price": "45",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112848,
+    "name": "Бензин",
+    "description": "",
+    "price": "425",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["car"]
+  },
+  {
+    "id": 19112858,
+    "name": "Фильтр",
+    "description": "",
+    "price": "145",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["car"]
+  }
+]
